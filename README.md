@@ -1,8 +1,22 @@
 ```
-npm install
-npm run dev
+bun install
+bun run dev
 ```
 
+Base
+
 ```
-open http://localhost:3000
+http://localhost:8600
+```
+
+OpenApi
+
+```
+http://localhost:8600/doc
+```
+
+API Reference
+
+```
+http://localhost:8600/reference
 ```
